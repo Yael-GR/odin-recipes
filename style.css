@@ -1,0 +1,17 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(2, 0, 31);
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: "Brush Script MT";
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
