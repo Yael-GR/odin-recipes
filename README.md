@@ -1,4 +1,4 @@
-# odin-recipes
+# yaels-recipes
 This project is a recipe website, containing three of my favorites things to cook and bake.
 Since this is my first website building project, I had to face a few challenges:
 1. I tried to better my committing comments in order to be more professional.
