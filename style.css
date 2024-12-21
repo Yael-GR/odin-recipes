@@ -84,9 +84,8 @@ ul.link.recipe {
 }
 
 .wrapper {
-    flex-direction: row-reverse;
     justify-content: space-between;
-    margin: 64px 3em;
+    margin: 64px 4em;
     gap: 64px;
 }
 .image {
