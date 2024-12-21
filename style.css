@@ -125,3 +125,8 @@ ul {
     padding-left: 16px;
     margin-bottom: 6px;
 }
+
+.web-link {
+    color: #211836;
+    text-decoration: underline;
+}
