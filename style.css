@@ -45,6 +45,7 @@ header {
 
 .top ul{
     gap: 32px;
+    flex-wrap: wrap;
 }
 
 .logo {
